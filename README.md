@@ -1,76 +1,3 @@
-📊 NYC Taxi Trip EDA Project – Automatidata | Google Data Analytics Portfolio
-🗂 Project Overview
-This project is part of the Course 3 Portfolio Project within the Google Data Analytics Professional Certificate. It simulates a real-world scenario on behalf of Automatidata, a fictional analytics consultancy hired by the New York City Taxi & Limousine Commission (TLC).
-
-Goal:
-Conduct an in-depth Exploratory Data Analysis (EDA) of NYC Yellow Taxi trips in 2017 to uncover patterns in ridership, visualize trends, and deliver actionable insights for city transportation stakeholders.
-
-📁 Project Structure
-Copy
-Edit
-NYC-Taxi-Trip-EDA-Project/
-├── dataset/
-│   └── 2017_Yellow_Taxi_Trip_Data.csv
-├── NYC_Taxi_EDA_Notebook.ipynb
-├── Tableau_Dashboard_Link.txt
-├── README.md
-├── executive_summary.pdf
-└── PACE_strategy_document.pdf
-🔍 Objectives
-Perform data inspection, cleaning, and transformation using Python.
-
-Create compelling visualizations with Matplotlib, Seaborn, and Tableau.
-
-Extract meaningful insights to support decision-making.
-
-Apply the PACE strategy for professional problem-solving:
-
-Plan → Analyze → Construct → Execute
-
-📊 Key Visualizations
-📦 Boxplots: Trip duration and outlier detection
-
-📆 Time Series: Daily, monthly, and quarterly ride volume trends
-
-🌆 Heatmaps (via Tableau): Pickup and drop-off activity across city zones
-
-👥 Passenger Counts: Frequency distribution
-
-💳 Payment Types: Breakdown and trends
-
-🛠 Tools & Technologies
-Python (Pandas, Matplotlib, Seaborn)
-
-Jupyter Notebook
-
-Tableau Public
-
-Google Docs (for documentation and summary reports)
-
-📄 Final Deliverables
-Cleaned dataset with key metrics
-
-Visual summaries for executive and public audiences
-
-Strategic recommendations based on usage trends and seasonal patterns
-
-Executive Summary & PACE Strategy Documentation
-
-📬 About the Analyst
-Ghulam Mujtaba
-🔗 Portfolio
-🔗 LinkedIn
-
-Would you like help designing a cleaner version of the executive summary or creating a portfolio-ready README file?
-
-
-
-You said:
-perfect for read me profile 
-
-ChatGPT said:
-Great! Here's a polished version of your project description, ideal for placing in your README.md file on GitHub or in a professional portfolio:
-
 📊 NYC Taxi Trip EDA Project – Automatidata
 Google Data Analytics Professional Certificate – Portfolio Project
 
@@ -118,7 +45,6 @@ Python: Pandas, NumPy, Matplotlib, Seaborn
 
 Jupyter Notebook
 
-Tableau Public
 
 Google Docs (for Executive Summary and Strategy documentation)
 
