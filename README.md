@@ -1,4 +1,5 @@
 📊 NYC Taxi Trip EDA Project – Automatidata | Google Data Analytics Portfolio
+
 🗂 Project Overview
 This project is part of the Course 3 Portfolio Project in the Google Data Analytics Professional Certificate. It simulates a real-world scenario from Automatidata, a fictional data analytics firm contracted by the New York City Taxi & Limousine Commission (TLC).
 
@@ -15,6 +16,7 @@ NYC-Taxi-Trip-EDA-Project/
 ├── README.md
 ├── executive_summary.pdf
 └── PACE_strategy_document.pdf
+
 🔍 Objectives
 Perform data inspection, cleaning, and transformation using Python (Pandas, Matplotlib, Seaborn).
 
@@ -52,8 +54,6 @@ Tableau Public
 
 Google Docs (for Executive Summary & PACE Strategy)
 
-🔗 Tableau Public Dashboard
-📌 View on Tableau Public (Add your actual dashboard link here once published)
 
 📄 Executive Summary
 The final deliverable includes:
@@ -64,20 +64,6 @@ Visual summaries for business and accessibility needs
 
 Recommendations based on trends and patterns
 
-📌 How to Use
-Clone the repo:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/NYC-Taxi-Trip-EDA-Project.git
-Launch the Jupyter Notebook:
-
-bash
-Copy
-Edit
-jupyter notebook NYC_Taxi_EDA_Notebook.ipynb
-Open the Tableau Dashboard via the link or .twbx file.
 
 📬 Contact
 Made by **Ghulam Mujtaba** – [Portfolio](https://ghulammujtaba.com) | [LinkedIn](https://linkedin.com/in/ghulamujtabaofficial)
