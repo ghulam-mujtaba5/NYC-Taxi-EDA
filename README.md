@@ -1,64 +1,76 @@
-📊 NYC Taxi Trip EDA Project – Automatidata
+# 📊 NYC Taxi Trip EDA – Automatidata
 Google Data Analytics Professional Certificate – Portfolio Project
+<p align="left">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Made%20with-Jupyter-F37626?logo=jupyter&logoColor=white" />
+  <img alt="Status" src="https://img.shields.io/badge/Status-Completed-22c55e" />
+</p>
 
-🗂 Project Overview
+---
+
+## 📌 Contents
+- Overview
+- Objective
+- Dataset
+- Project Structure
+- Setup
+- Usage
+- Highlight Visualizations
+- Tools & Technologies
+- Final Deliverables
+- About the Analyst
+
+## 🗂 Project Overview
 This project was developed as part of Course 3 in the Google Data Analytics Professional Certificate. It simulates a real-world scenario where Automatidata, a fictional data analytics firm, is contracted by the New York City Taxi & Limousine Commission (TLC) to analyze yellow taxi trip data for the year 2017.
 
-🎯 Objective
+## 🎯 Objective
 To conduct an Exploratory Data Analysis (EDA) that uncovers trends, patterns, and insights in NYC taxi ridership, and to present these findings through compelling visualizations and executive documentation.
 
-📁 Project Structure
-Copy
-Edit
-NYC-Taxi-Trip-EDA-Project/
-├── dataset/
-│   └── 2017_Yellow_Taxi_Trip_Data.csv
-├── NYC_Taxi_EDA_Notebook.ipynb
-├── Tableau_Dashboard_Link.txt
-├── README.md
-├── executive_summary.pdf
-└── PACE_strategy_document.pdf
-🔍 Key Objectives
-Inspect, clean, and transform raw data using Python (Pandas, NumPy).
+## 🗂️ Dataset
+- Local file: `2017_Yellow_Taxi_Trip_Data.csv`
+- Source: NYC TLC Trip Records (2017): https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
-Develop insightful visualizations using Matplotlib, Seaborn, and Tableau.
+## 📁 Project Structure
+```
+NYC-Taxi-EDA/
+├─ 2017_Yellow_Taxi_Trip_Data.csv
+├─ python.ipynb
+└─ README.md
+```
 
-Apply the PACE strategy for structured problem-solving:
+## 🛠 Setup
+  
+  ```bash
+  # (optional) create a virtual environment
+  python -m venv .venv
+  # Windows PowerShell
+  . .venv\Scripts\Activate.ps1
+  
+  # install typical analysis stack
+  pip install pandas numpy matplotlib seaborn jupyter
+  
+  # start Jupyter
+  jupyter notebook
+  ```
 
-Plan → Analyze → Construct → Execute
+## 📊 Highlight Visualizations
 
-Deliver findings in a stakeholder-friendly format.
+- Ride duration boxplots – outlier detection and variability
+- Time-based trends – daily, monthly, seasonal trip volumes
+- Passenger count distributions
+- Payment type breakdown – popularity and usage trends
 
-📊 Highlight Visualizations
-📦 Ride Duration Boxplots – Outlier detection and variability
+## 🛠 Tools & Technologies
 
-📈 Time-Based Trends – Daily, monthly, and seasonal trip volumes
+- Python: Pandas, NumPy, Matplotlib, Seaborn
+- Jupyter Notebook
 
-🌆 Heatmaps (Tableau) – Pickup/drop-off density by location
+## 📄 Final Deliverables
 
-👥 Passenger Count Distributions
+- Cleaned and processed trip dataset
+- Visual reports highlighting key usage patterns
+- Strategic recommendations for stakeholders
 
-💳 Payment Type Breakdown – Popularity and usage trends
-
-🛠 Tools & Technologies
-Python: Pandas, NumPy, Matplotlib, Seaborn
-
-Jupyter Notebook
-
-
-Google Docs (for Executive Summary and Strategy documentation)
-
-📄 Final Deliverables
-✅ Cleaned and processed trip dataset
-
-📊 Visual reports highlighting key usage patterns
-
-📁 Executive Summary (PDF)
-
-📈 Interactive Tableau Dashboard
-
-📌 Strategic recommendations for stakeholders
-
-👤 About the Analyst
+## 👤 About the Analyst
 Made by **Ghulam Mujtaba** – [Portfolio](https://ghulammujtaba.com) | [LinkedIn](https://linkedin.com/in/ghulamujtabaofficial)
 
